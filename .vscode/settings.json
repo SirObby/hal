@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.spwn": "spwn",
+        "NEOMakefile": "makefile",
+        "*.hbuild": "c",
+        "vosk_api.h": "c"
+    }
+}
